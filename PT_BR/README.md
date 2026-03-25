@@ -98,10 +98,10 @@ Busco evoluir constantemente através de desafios práticos e projetos reais.
 
 ## 📬 Contato
 
-(Adicione aqui se quiser)
+(031 9 92364219)
 
-* LinkedIn: 
-* GitHub:
+* LinkedIn: https://www.linkedin.com/in/caio-augusto-amaral-paiva-3919891b4/
+* GitHub: https://github.com/Caio-Amarall
 
 ---
 
