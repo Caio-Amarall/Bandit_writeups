@@ -8,7 +8,9 @@ hexadecimal, ficar identificando o tipo do arquivo e por fim,
 ficar descriptografando ele repetidas vezes.
 
 ## Solução
-Ap
+Após criar um diretório, copiar o arquivo, descobrir o tipo de arquivo
+usar diversos comando repetidas vezes, encontramos o arquivo certo.
+
 # Comandos usados
 ```bash
 mkdir /tmp/Desafio_bandit12
