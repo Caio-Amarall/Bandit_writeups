@@ -42,7 +42,7 @@ Cada nível possui seu próprio arquivo com explicações detalhadas:
  ├── level-01.md
  ├── level-02.md
  ...
- └── level-33.md
+ └── level-32.md
 ```
 
 Cada write-up contém:
