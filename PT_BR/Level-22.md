@@ -11,7 +11,7 @@ descobrimos outro caminho do script, lendo o script
 nos é informado que ele cria uma pasta temporária para guardar
 informações, lendo ele descobrimos a senha.
 
-# Comandos usados
+## Comandos usados
 ```bash
 ls -l
 cd /etc/cron.d/
@@ -22,7 +22,7 @@ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 ```
 ## Aprendizado
 
-# Pasta temporária
+## Pasta temporária
 Alguns aplicativos criam pastas temporárias para guardar
 informações, se estas pastas não forem configuradas da
 forma correta, qualquer um poderá as ler.

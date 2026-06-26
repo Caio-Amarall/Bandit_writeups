@@ -6,14 +6,14 @@ Precisamos ler o arquivo nomeado de '-'
 ## Solução
 Temos o nome do arquivo, apenas precisamos o ler.
 
-# Comandos usados
+## Comandos usados
 ```bash
 ls
 cat ./-
 ```
 ## Aprendizado
 
-# Como ler arquivos com caracteres como nome
+## Como ler arquivos com caracteres especiais como nome
 Caso enviamos apenas 'cat -', não conseguimos resposta
 pois o arquivo não pode ser lido dessa maneira. Então
 temos que especificar que é um arquivo mesmo nomeado assim.

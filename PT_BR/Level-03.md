@@ -1,20 +1,20 @@
 # Bandit level 02 → 03
 
 ## Objetivo
-Ler o arquivo nomeado de --spaces in this filename-- e encontra a senha
+Ler o arquivo nomeado de 'spaces in this filename' e encontrar a senha
 
 ## Solução
 Já temos o nome do arquivo, então precisamos encontrar como o ler.
 
-# Comandos usados
+## Comandos usados
 ```bash
 ls
-cat ./--spaces\ in\ this\ filename--
+cat "spaces in this filename"
 ```
 
 ## Aprendizado
 
-# Como ler arquivos com espaços entre os nomes
+## Como ler arquivos com espaços no nome
 Quando temos arquivos com espaços entre o nome, devemos usar os \ 
 em cada espaço para indicar que há um espaço ali. E como já aprendemos
 no último level, devemos especificar que é um arquivo.
