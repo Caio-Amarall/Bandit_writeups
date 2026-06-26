@@ -98,9 +98,7 @@ Busco evoluir constantemente através de desafios práticos e projetos reais.
 
 ## 📬 Contato
 
-(031 9 92364219)
-
-* LinkedIn: https://www.linkedin.com/in/caio-augusto-amaral-paiva-3919891b4/
+* LinkedIn: https://www.linkedin.com/in/oliveira-security
 * GitHub: https://github.com/Caio-Amarall
 
 ---
